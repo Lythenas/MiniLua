@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['type_1266',['Type',['../structLuaToken.html#aa60b13d88c317e381fc5033c047cf432',1,'LuaToken']]],
-  ['typekind_1267',['TypeKind',['../namespacets.html#a4b1e0c2da53e86fac30568c832aa2720',1,'ts']]]
+  ['binopenum_1574',['BinOpEnum',['../namespaceminilua_1_1details_1_1ast.html#a3c6cffcd7e4488a497f69ee5ea8abea0',1,'minilua::details::ast']]]
 ];

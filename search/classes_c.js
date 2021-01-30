@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['parsefailureexception_706',['ParseFailureException',['../classts_1_1ParseFailureException.html',1,'ts']]],
-  ['parser_707',['Parser',['../classminilua_1_1Parser.html',1,'minilua::Parser'],['../classts_1_1Parser.html',1,'ts::Parser']]],
-  ['parseresult_708',['ParseResult',['../structminilua_1_1ParseResult.html',1,'minilua']]],
-  ['parserlanguageexception_709',['ParserLanguageException',['../classts_1_1ParserLanguageException.html',1,'ts']]],
-  ['performancestatistics_710',['PerformanceStatistics',['../structPerformanceStatistics.html',1,'']]],
-  ['point_711',['Point',['../structts_1_1Point.html',1,'ts']]]
+  ['next_847',['Next',['../classminilua_1_1details_1_1ast_1_1Next.html',1,'minilua::details::ast']]],
+  ['nil_848',['Nil',['../structminilua_1_1Nil.html',1,'minilua']]],
+  ['node_849',['Node',['../classts_1_1Node.html',1,'ts']]],
+  ['noorigin_850',['NoOrigin',['../structminilua_1_1NoOrigin.html',1,'minilua']]],
+  ['nullnodeexception_851',['NullNodeException',['../classts_1_1NullNodeException.html',1,'ts']]],
+  ['number_852',['Number',['../structminilua_1_1Number.html',1,'minilua']]]
 ];

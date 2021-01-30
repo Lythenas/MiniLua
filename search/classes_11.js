@@ -1,6 +1,19 @@
 var searchData=
 [
-  ['unarynumericfunctionhelper_732',['UnaryNumericFunctionHelper',['../structminilua_1_1UnaryNumericFunctionHelper.html',1,'minilua']]],
-  ['unaryorigin_733',['UnaryOrigin',['../structminilua_1_1UnaryOrigin.html',1,'minilua']]],
-  ['unsafe_5ft_734',['unsafe_t',['../structts_1_1Node_1_1unsafe__t.html',1,'ts::Node']]]
+  ['self_879',['Self',['../classminilua_1_1details_1_1ast_1_1Self.html',1,'minilua::details::ast']]],
+  ['sourceassignment_880',['SourceAssignment',['../structlua_1_1rt_1_1SourceAssignment.html',1,'lua::rt']]],
+  ['sourcebinop_881',['sourcebinop',['../structlua_1_1rt_1_1sourcebinop.html',1,'lua::rt']]],
+  ['sourcechange_882',['SourceChange',['../structlua_1_1rt_1_1SourceChange.html',1,'lua::rt::SourceChange'],['../structminilua_1_1SourceChange.html',1,'minilua::SourceChange']]],
+  ['sourcechangealternative_883',['SourceChangeAlternative',['../structminilua_1_1SourceChangeAlternative.html',1,'minilua']]],
+  ['sourcechangeand_884',['SourceChangeAnd',['../structlua_1_1rt_1_1SourceChangeAnd.html',1,'lua::rt']]],
+  ['sourcechangecombination_885',['SourceChangeCombination',['../structminilua_1_1SourceChangeCombination.html',1,'minilua']]],
+  ['sourcechangeor_886',['SourceChangeOr',['../structlua_1_1rt_1_1SourceChangeOr.html',1,'lua::rt']]],
+  ['sourcechangetree_887',['SourceChangeTree',['../classminilua_1_1SourceChangeTree.html',1,'minilua']]],
+  ['sourcechangevisitor_888',['SourceChangeVisitor',['../structlua_1_1rt_1_1SourceChangeVisitor.html',1,'lua::rt']]],
+  ['sourceexp_889',['sourceexp',['../structlua_1_1rt_1_1sourceexp.html',1,'lua::rt']]],
+  ['sourceunop_890',['sourceunop',['../structlua_1_1rt_1_1sourceunop.html',1,'lua::rt']]],
+  ['sourceval_891',['sourceval',['../structlua_1_1rt_1_1sourceval.html',1,'lua::rt']]],
+  ['spread_892',['Spread',['../classminilua_1_1details_1_1ast_1_1Spread.html',1,'minilua::details::ast']]],
+  ['statement_893',['Statement',['../classminilua_1_1details_1_1ast_1_1Statement.html',1,'minilua::details::ast']]],
+  ['string_894',['String',['../structminilua_1_1String.html',1,'minilua']]]
 ];

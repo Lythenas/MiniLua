@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['val_2ecpp_775',['val.cpp',['../val_8cpp.html',1,'']]],
-  ['val_2ehpp_776',['val.hpp',['../val_8hpp.html',1,'']]],
-  ['values_2ecpp_777',['values.cpp',['../values_8cpp.html',1,'']]],
-  ['values_2ehpp_778',['values.hpp',['../values_8hpp.html',1,'']]]
+  ['tree_5fsitter_2ecpp_951',['tree_sitter.cpp',['../tree__sitter_8cpp.html',1,'']]],
+  ['tree_5fsitter_2ehpp_952',['tree_sitter.hpp',['../tree__sitter_8hpp.html',1,'']]]
 ];
