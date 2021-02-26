@@ -1,6 +1,7 @@
 ---
-Language:        Cpp
-BasedOnStyle:  LLVM
+Language: Cpp
+BasedOnStyle: LLVM
+Standard: c++17
 IndentWidth: 4
 ColumnLimit: 100
 
@@ -16,5 +17,17 @@ BreakStringLiterals: false
 
 # don't align after open bracket (this would sometimes push the code a lot to the right)
 AlignAfterOpenBracket: AlwaysBreak
+
+# put arguments on separate lines if they don't fit on one
+BinPackArguments: false
+BinPackParameters: false
+
+# put "template<...>" on its own line
+AlwaysBreakTemplateDeclarations: Yes
+
+# put initializers in constructors on separate lines
+BreakConstructorInitializers: BeforeColon
+
+PenaltyBreakBeforeFirstCallParameter: 0
 ...
 
